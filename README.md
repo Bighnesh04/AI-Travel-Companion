@@ -1,57 +1,47 @@
-# 🌍 AI Travel Companion
+🌍 AI Travel Companion
 
-An intelligent travel planning web application powered by Google Gemini AI that helps you create personalized itineraries, discover attractions, analyze reviews, and get local travel insights.
+An intelligent travel planning web application powered by Google Gemini AI.
+Create personalized itineraries, explore interactive maps, analyze travel reviews, and get local insights—all in one place.
 
-![AI Travel Companion](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Travel+Companion)
+✨ Features
+🗓️ Personalized Itinerary Generation
 
-## ✨ Features
+AI-powered day-by-day travel plans tailored to your preferences
 
-### 🗓️ **Personalized Itinerary Generation**
+Budget-aware recommendations & weather-based planning
 
-- AI-powered day-by-day travel plans tailored to your preferences
-- Budget-aware recommendations
-- Weather integration for optimal planning
-- Customizable based on interests, travel dates, and traveler type
+Customizable by interests, travel dates, and traveler type
 
-### 🗺️ **Interactive Maps**
+🗺️ Interactive Maps
 
-- Beautiful Folium maps with custom markers
-- Restaurant and attraction locations
-- OpenStreetMap integration (no API keys required)
-- Clickable markers with detailed information
+Beautiful Folium + OpenStreetMap maps (no extra API keys)
 
-### 📊 **Review Analytics Dashboard**
+Restaurant & attraction markers with detailed info
 
-- AI-powered sentiment analysis of travel reviews
-- Visual charts showing sentiment distribution
-- Key insights extraction from reviews
-- Support for text input and file uploads
+📊 Review Analytics Dashboard
 
-### 💡 **Smart Travel Tips**
+Gemini-driven sentiment analysis of travel reviews
 
-- Local cultural insights and etiquette
-- Safety recommendations
-- Money-saving tips
-- Hidden gems and local secrets
+Visual charts of sentiment distribution
 
-### 📥 **Export Capabilities**
+Key insights extraction from user text or uploaded files
 
-- Download itineraries as PDF or Markdown
-- Professional formatting
-- Include analytics and insights
+💡 Smart Travel Tips
 
-## 🚀 Quick Start
+Local cultural insights & etiquette
 
-### Prerequisites
+Safety recommendations and hidden gems
 
-- Python 3.8 or higher
-- Google Gemini API key (free from [Google AI Studio](https://makersuite.google.com/app/apikey))
+📥 Export Options
 
-### Installation
+Download itineraries & insights as PDF or Markdown
 
-1. **Clone the repository**
+Professionally formatted exports for sharing or offline use
 
-```bash
-   git clone <repository-url>
-   cd ai_travel_companion
-```
+🚀 Quick Start
+Prerequisites
+
+Python 3.8+
+
+Google Gemini API key (free at Google AI Studio
+)
